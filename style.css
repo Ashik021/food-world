@@ -1,5 +1,6 @@
 body{
     font-family: 'Oswald', sans-serif;
+    margin: 0%;
 }
 h1{
     font-size: 50px;
@@ -30,5 +31,20 @@ section{
     text-decoration: none;
     background-image: linear-gradient(orange, red);
     padding: 10px 25px;
-    border-radius: 5px ;
+    border-radius: 5px;
+}
+.background-shapes{
+    background-image: url(shapes/);
+}
+.background-shapes{
+    background-image: url(shapes/frame\ 01.png);
+    background-repeat: no-repeat;
+}
+.text-align{
+    text-align: center;
+}
+.side-align{
+    text-align: center;
+    padding-right: 15%;
+    padding-left: 15%;
 }
