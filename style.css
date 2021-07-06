@@ -38,11 +38,16 @@ h3{
     background-image: url(shapes/frame\ 01.png);
     background-repeat: no-repeat;
 }
-.text-align{
+
+
+.recipies-area{
     text-align: center;
+    padding-left: 30%;
 }
-.side-align{
+.card-image {
+    width: 200px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     text-align: center;
-    padding-right: 15%;
-    padding-left: 15%;
-}
+    padding: 5px;
+  }
+  
