@@ -17,7 +17,7 @@ h3{
 .blue-color{
     color: blue;
 }
-section{
+.flexible-container{
     display: flex;
 }
 .half-width{
@@ -33,8 +33,6 @@ section{
     padding: 10px 25px;
     border-radius: 5px;
 }
-.background-shapes{
-    background-image: url(shapes/);
 }
 .background-shapes{
     background-image: url(shapes/frame\ 01.png);
