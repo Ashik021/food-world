@@ -1,0 +1,34 @@
+body{
+    font-family: 'Oswald', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+h3{
+    font-size: 30px;
+}
+.order-food{
+    text-decoration: none;
+    background-image: linear-gradient(blue, white);
+    padding: 10px 25px;
+    border-radius: 5px;
+}
+.blue-color{
+    color: blue;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding: 5%;
+}
+.half-width img{
+    width: 80%;
+}
+.contact-me{
+    text-decoration: none;
+    background-image: linear-gradient(orange, red);
+    padding: 10px 25px;
+    border-radius: 5px ;
+}
